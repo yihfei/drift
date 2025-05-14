@@ -1,3 +1,4 @@
 # drift
-**Drift** is a minimalist journaling app built for simplicity. It allows users to easily create, read, update, and delete journal entries.
+**Drift** is a minimalist journaling app built for simplicity. 
+
 [live app](https://drift-xi.vercel.app/)
