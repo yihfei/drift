@@ -36,7 +36,9 @@ export default function LogForm(props) {
                     )}
                 </div>
                 <input type="hidden" name="LogId" defaultValue={props.log?.id}/>
-                <button type="submit" className="btn text-white" style={{ backgroundColor: '#6A7B3E' }}>submit</button>
+                <div className="flex justify-end">
+                    <button type="submit" className="btn text-white" style={{ backgroundColor: '#6A7B3E' }}>submit</button>
+                </div>
             </form>
     )
 }

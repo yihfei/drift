@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
         {children}
       </main>
       <footer className="text-gray-400 text-center py-5 text-xs">
-          <p>Copyright &copy; {new Date().getFullYear()} - All rights reserved</p>
+          <p>Copyright &copy; {new Date().getFullYear()} yihfei - All rights reserved</p>
       </footer>
       </body>
     </html>
